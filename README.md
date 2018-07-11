@@ -1,3 +1,5 @@
+Instruction Details: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
