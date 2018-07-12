@@ -11,6 +11,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "docker-build": "docker image build -t react:app .",
+    "docker-run": "docker container run -it -p 3000:3000 -p 35729:35729 -v $(pwd):/app react:app"
   }
 }

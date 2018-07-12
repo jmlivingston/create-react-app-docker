@@ -1,4 +1,15 @@
-Instruction Details: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
+#create-react-app-docker
+
+## Build and Run Docker
+
+```bash
+yarn docker-build
+yarn docker-run
+```
+
+## Details Instructions: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
+
+## create-react-app Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
