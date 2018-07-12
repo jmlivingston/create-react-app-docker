@@ -7,7 +7,7 @@ yarn docker-build
 yarn docker-run
 ```
 
-## Details Instructions: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
+## Detailed Walkthrough and Instructions: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
 
 ## create-react-app Instructions
 
