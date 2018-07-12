@@ -7,6 +7,14 @@ yarn docker-build
 yarn docker-run
 ```
 
+## Remove Docker Image
+
+```bash
+yarn docker-remove
+```
+
+> Note: Docker command shortcuts are located in package.json and can be edited there.
+
 ## Detailed Walkthrough and Instructions: https://www.peterbe.com/plog/how-to-create-react-app-with-docker
 
 ## create-react-app Instructions
